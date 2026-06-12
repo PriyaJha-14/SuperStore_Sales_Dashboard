@@ -85,9 +85,6 @@ SuperStore_Sales_Dashboard/
 4. Use the region filters and chart interactions to explore sales and profit performance.
 5. Review the forecast page to analyze projected short-term sales movement.
 
-## Why this project matters
-
-This project demonstrates the ability to build a portfolio-ready Power BI solution that combines descriptive analytics and predictive analysis in a business context. It is relevant for roles such as Data Analyst, Business Analyst, and BI Developer because it shows dashboard design, insight generation, and forecasting capability in a single case study.
 
 ## Author
 
