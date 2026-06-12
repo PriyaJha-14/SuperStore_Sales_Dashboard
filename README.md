@@ -1,6 +1,6 @@
 # Super Store Sales Dashboard
 
-An interactive Power BI project for sales analysis and short-term forecasting using Super Store data. The project combines business-focused dashboarding with time series analysis to uncover patterns in sales, profit, shipping behavior, customer segments, and state-level performance, and extends the analysis with a 15-day sales forecast.
+An interactive Power BI project for sales analysis and short-term forecasting using Super Store data. The project combines business-focused dashboarding with time series analysis to uncover patterns in sales, profit, shipping behavior, customer segments, and state-level performance, and extends the analysis with a 15-day sales forecast. 
 
 ## Project overview
 
