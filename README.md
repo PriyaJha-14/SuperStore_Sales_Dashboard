@@ -90,4 +90,3 @@ SuperStore_Sales_Dashboard/
 
 Priya Jha
 
-GitHub repository: [SuperStore_Sales_Dashboard](https://github.com/PriyaJha-14/SuperStore_Sales_Dashboard)
