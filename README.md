@@ -71,11 +71,10 @@ A typical structure for this project on GitHub can be:
 ```bash
 SuperStore_Sales_Dashboard/
 │── README.md
-│── SuperStore_Sales_Dashboard.pbix
+│── Sales Dashboard.pbix
 │── Dashboard_img-1.jpg
 │── Forecast_img-2.jpg
-│── dataset/
-│   └── SuperStore_Sales_Data.xlsx
+└── SuperStore_Sales_Data.xlsx
 ```
 
 ## How to use
